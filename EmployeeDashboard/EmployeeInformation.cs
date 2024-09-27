@@ -10,28 +10,48 @@ namespace EmployeeManagement
 
        static void Main(string[] args)
         {
-            String companyName = EmployeeDetails.companyName = "Thomson Reuters";
-            Console.WriteLine(companyName);
-
+            
+            
             EmployeeDetails e1 = new EmployeeDetails();
             EmployeeDetails e2 = new EmployeeDetails();
             EmployeeDetails e3 = new EmployeeDetails();
 
-            e1.empId = 100;
+            String companyName = EmployeeDetails.companyName = "Thomson Reuters";
+            e1.EmployeeID = -100;
             e1.empName = "John";
-            e1.empSalary = 78000;
-            e1.empPerformance = 'A';
+            e1.empSalary = 1000;
+            e1.EmployeePerformance = 'A';
 
 
-            e2.empId = 101;
+            e2.EmployeeID = -101;
             e2.empName = "JIll";
-            e2.empSalary = 92222;
-            e2.empPerformance = 'B';
+            e2.empSalary = 2000;
+            e2.EmployeePerformance = 'B';
 
-            e3.empId = 102;
+            e3.EmployeeID = 102;
             e3.empName = "Navya";
-            e3.empSalary = 178000;
-            e3.empPerformance = 'C';
+            e3.empSalary = 3000;
+            e3.EmployeePerformance = 'M';
+
+           
+           e1.display();
+            e2.display();
+            e3.display();
+
+
+            e1.AllocateBonus();
+            e2.AllocateBonus();
+            e3.AllocateBonus();
+
+
+            e1.display();
+            e2.display();
+            e3.display();
+
+
+
+
+
 
 
 
