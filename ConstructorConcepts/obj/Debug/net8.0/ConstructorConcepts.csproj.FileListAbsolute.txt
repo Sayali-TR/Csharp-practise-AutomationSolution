@@ -1,0 +1,15 @@
+C:\Csharp practise\AutomationSolution\ConstructorConcepts\obj\Debug\net8.0\ConstructorConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp practise\AutomationSolution\ConstructorConcepts\obj\Debug\net8.0\ConstructorConcepts.AssemblyInfoInputs.cache
+C:\Csharp practise\AutomationSolution\ConstructorConcepts\obj\Debug\net8.0\ConstructorConcepts.AssemblyInfo.cs
+C:\Csharp practise\AutomationSolution\ConstructorConcepts\obj\Debug\net8.0\ConstructorConcepts.csproj.CoreCompileInputs.cache
+C:\Csharp practise\AutomationSolution\ConstructorConcepts\obj\Debug\net8.0\ConstructorConcepts.sourcelink.json
+C:\Csharp practise\AutomationSolution\ConstructorConcepts\bin\Debug\net8.0\ConstructorConcepts.exe
+C:\Csharp practise\AutomationSolution\ConstructorConcepts\bin\Debug\net8.0\ConstructorConcepts.deps.json
+C:\Csharp practise\AutomationSolution\ConstructorConcepts\bin\Debug\net8.0\ConstructorConcepts.runtimeconfig.json
+C:\Csharp practise\AutomationSolution\ConstructorConcepts\bin\Debug\net8.0\ConstructorConcepts.dll
+C:\Csharp practise\AutomationSolution\ConstructorConcepts\bin\Debug\net8.0\ConstructorConcepts.pdb
+C:\Csharp practise\AutomationSolution\ConstructorConcepts\obj\Debug\net8.0\ConstructorConcepts.dll
+C:\Csharp practise\AutomationSolution\ConstructorConcepts\obj\Debug\net8.0\refint\ConstructorConcepts.dll
+C:\Csharp practise\AutomationSolution\ConstructorConcepts\obj\Debug\net8.0\ConstructorConcepts.pdb
+C:\Csharp practise\AutomationSolution\ConstructorConcepts\obj\Debug\net8.0\ConstructorConcepts.genruntimeconfig.cache
+C:\Csharp practise\AutomationSolution\ConstructorConcepts\obj\Debug\net8.0\ref\ConstructorConcepts.dll

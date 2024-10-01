@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HIiKNU5IDSs=",
+  "success": true,
+  "projectFilePath": "C:\\Csharp practise\\AutomationSolution\\SolutionSeleniumTask2\\SeleniumTask2\\SeleniumTask2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\6124594\\.nuget\\packages\\selenium.support\\4.25.0\\selenium.support.4.25.0.nupkg.sha512",
+    "C:\\Users\\6124594\\.nuget\\packages\\selenium.webdriver\\4.25.0\\selenium.webdriver.4.25.0.nupkg.sha512"
+  ],
+  "logs": []
+}
